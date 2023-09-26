@@ -14,15 +14,15 @@ build:
     - trufflehog = truffleHog.truffleHog:main
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
-  number: 1
+  number: 2
 
 requirements:
   host:
     - python >=3.7,<3.11
     - pip
   run:
-    - python >=3.7,<3.11
-    - gitpython >=3.0.5,<3.1.0
+    - python >=3.7,<3.12
+    - gitpython >=3.0.5
     - trufflehogregexes ==0.0.7
 
 test:
