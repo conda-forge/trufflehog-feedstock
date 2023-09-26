@@ -1,11 +1,11 @@
-About trufflehog
-================
+About trufflehog-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trufflehog-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/dxa4481/truffleHog
 
 Package license: AGPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trufflehog-feedstock/blob/main/LICENSE.txt)
 
 Summary: Searches through git repositories for high entropy strings, digging deep into commit history.
 
